@@ -51,7 +51,7 @@ Ensemble, pour une UGESM innovante !
     attachments: [
       {
         type: 'video',
-        url: '/images/posts/nemekoutour/1.mp4',
+        url: 'https://www.instagram.com/reel/DC4wvnjNR9A/?igsh=MWwwaTc2MDJkbG8zNw==',
         title: 'Video Nemekou tour 2024'
       },
 
